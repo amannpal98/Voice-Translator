@@ -32,7 +32,7 @@ Parrot is a web application designed to provide translation services and interac
 
 1. **Clone the repository**
    ```powershell
-   git clone <repo-url>
+   git clone <https://github.com/amannpal98/Voice-Translator>
    cd Parrot
    ```
 2. **Install dependencies**
